@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421207147262",
+    "firebase_url": "https://mynote-app.firebaseio.com",
+    "project_id": "mynote-app",
+    "storage_bucket": "mynote-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421207147262:android:8a1810d297b14a44bc5baf",
+        "android_client_info": {
+          "package_name": "com.example.mynoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421207147262-b848pibt22s4vcm0n6jja1oi55hm5cnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6-yyV26RqYcoAk80O_EHEKeNVk-JRyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421207147262-b848pibt22s4vcm0n6jja1oi55hm5cnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
